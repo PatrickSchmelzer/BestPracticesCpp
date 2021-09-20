@@ -43,6 +43,16 @@
         "xtr1common": "cpp",
         "xutility": "cpp",
         "cctype": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "algorithm": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "condition_variable": "cpp",
+        "deque": "cpp",
+        "mutex": "cpp",
+        "queue": "cpp",
+        "ratio": "cpp",
+        "thread": "cpp",
+        "vector": "cpp"
     }
 }
